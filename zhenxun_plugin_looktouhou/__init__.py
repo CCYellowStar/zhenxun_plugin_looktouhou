@@ -25,7 +25,7 @@ usage：
 __plugin_des__ = "发送看+东方人物或昵称就可以得到一张这个人物的美图"
 __plugin_cmd__ = ["看东方"]
 __plugin_type__ = ("来点好康的",)
-__plugin_version__ = 0.1
+__plugin_version__ = 1.0
 __plugin_author__ = "CCYellowStar"
 __plugin_settings__ = {
     "level": 5,
