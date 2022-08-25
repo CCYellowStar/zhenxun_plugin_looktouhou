@@ -86,7 +86,7 @@ lmly = on_regex("^(看蕾米|看蕾米莉亚|看威严满满|看威严扫地|看
 mh = on_regex("^(看妹红)$", priority=5, block=True)
 lmm = on_regex("^(看灵梦|看博丽灵梦|看红白|看十万|看十万灵梦|看赤色杀人魔)$", priority=5, block=True)
 hy = on_regex("^(看辉夜|看蓬莱山辉夜)$", priority=5, block=True)
-baka = on_regex("^(看⑨|看琪露诺|看baka|看德皇)$", priority=5, block=True)
+baka = on_regex("^(看⑨|看琪露诺|看baka)$", priority=5, block=True)
 touhou = on_regex("^(看东方)$", priority=5, block=True)
 xl = on_regex("^(看小铃|看本居小铃|看防撞桶)$", priority=5, block=True)
 hyy = on_regex("^(看老师|看慧音)$", priority=5, block=True)
