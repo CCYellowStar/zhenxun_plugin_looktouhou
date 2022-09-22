@@ -34,7 +34,7 @@ __plugin_settings__ = {
     "cmd": ["看东方"],
 }
 
-can = on_command("查", block=True, priority=5)
+can = on_command("查", block=True, priority=6)
 cssm = on_regex("^(看船长|看村纱水蜜|看水蜜)$", priority=5, block=True)
 yl = on_regex("^(看永琳)$", priority=5, block=True)
 xem = on_regex("^(看小恶魔)$", priority=5, block=True)
